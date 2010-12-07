@@ -1,7 +1,7 @@
 require 'helper'
 
 class TestNewie < Test::Unit::TestCase
-  should "probably rename this file and start testing for real" do
-    flunk "hey buddy, you should probably rename this file and start testing for real"
+  should "instantiate when invoking new" do
+    assert_not_nil Object.new
   end
 end
