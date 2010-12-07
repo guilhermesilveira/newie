@@ -15,8 +15,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "newie"
   gem.homepage = "http://github.com/guilhermesilveira/newie"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{The fastest dependency injection framework}
+  gem.description = %Q{The fastest dependency injection framework}
   gem.email = "guilherme.silveira@caelum.com.br"
   gem.authors = ["guilherme silveira"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,
