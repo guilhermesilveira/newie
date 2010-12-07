@@ -4,6 +4,14 @@ Newie for Ruby is the fastest dependency injection framework ever.
 Based in vapor.js, newie allows you to inject your dependencies in a way that no
 other controller allows you.
 
+== First example
+
+You can instantiate any dependency you need, ever:
+
+	Object.new
+
+== Complex example
+
 For example, imagine two different models:
 
 	class Foo
